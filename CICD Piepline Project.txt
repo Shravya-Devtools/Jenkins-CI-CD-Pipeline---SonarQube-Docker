@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shravya - DevOps Engineer</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333;">
+
+    <header style="background-color: #4CAF50; color: white; padding: 20px; text-align: center;">
+        <h1>Shravya - DevOps Engineer</h1>
+    </header>
+
+    <section style="padding: 20px; background-color: #fff; margin: 10px;">
+        <h2>About Me</h2>
+        <p style="font-size: 18px;">I am Shravya, a DevOps Engineer with expertise in AWS, JFrog, GitHub, GitLab, and Docker. My goal is to bridge the gap between development and operations to deliver continuous integration and continuous deployment solutions effectively.</p>
+    </section>
+
+    <section style="padding: 20px; background-color: #fff; margin: 10px;">
+        <h2>Contact Info</h2>
+        <p style="font-size: 18px;">Email: <a href="mailto:shravya@example.com" style="color: #4CAF50;">shravya@example.com</a></p>
+    </section>
+
+    <section style="padding: 20px; background-color: #fff; margin: 10px;">
+        <h2>Skills</h2>
+        <ul style="font-size: 18px; line-height: 1.8;">
+            <li>AWS</li>
+            <li>JFrog</li>
+            <li>GitHub</li>
+            <li>GitLab</li>
+            <li>Docker</li>
+        </ul>
+    </section>
+
+    <section style="padding: 20px; background-color: #fff; margin: 10px;">
+        <h2>Projects</h2>
+        <ul style="font-size: 18px; line-height: 1.8;">
+            <li>Project 1: AWS Infrastructure Automation</li>
+            <li>Project 2: CI/CD Pipeline Implementation using Jenkins and Docker</li>
+            <li>Project 3: GitLab Repository Management and CI/CD Setup</li>
+        </ul>
+    </section>
+
+    <footer style="background-color: #4CAF50; color: white; text-align: center; padding: 10px;">
+        <p>&copy; 2025 Shravya - DevOps Engineer</p>
+    </footer>
+
+</body>
+</html>
